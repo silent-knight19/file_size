@@ -22,3 +22,4 @@ describe('formatFileSize', () => {
     expect(formatFileSize(1572864)).toBe('1.50 MB');
   });
 });
+

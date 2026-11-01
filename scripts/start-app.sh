@@ -12,3 +12,4 @@ echo ""
 
 # Start Vite dev server without auto-opening a browser
 npx vite --no-open
+
